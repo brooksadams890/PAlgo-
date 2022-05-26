@@ -5,3 +5,5 @@ Pizza Algo
 3. Order your pizza
 4. Recive your pizza
 5. Tip generously
+6. get pizza
+7. eat in one sitting
